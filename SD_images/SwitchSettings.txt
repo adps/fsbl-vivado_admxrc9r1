@@ -1,0 +1,19 @@
+Switch settings:
+
+SW3-1: ON
+SW3-2: OFF
+SW3-3: OFF
+SW3-4: ON
+SW3-5: OFF
+SW3-6: ON
+SW3-7: OFF
+SW3-8: ON
+
+SW4-1: OFF
+SW4-2: OFF
+SW4-3: ON
+SW4-4: ON
+SW4-5: OFF
+SW4-6: OFF
+SW4-7: ON
+SW4-8: OFF
